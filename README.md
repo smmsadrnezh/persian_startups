@@ -7,38 +7,55 @@ Table of Contents
 =================
 
    * [Software and Technology](#software-and-technology)
+   * [Music](#music)
    * [Food](#food)
    * [Education](#education)
    * [For Software Developers](#for-software-developers)
+   * [Application Builders](#application-builders)
+   * [Podcast & Audiobooks](#podcast-&-audiobooks)
+   * [Productivity & Business Needs](#productivity-&-business-needs])
+   * [Financial Technologies](#financial-technologies)
+   * [Marketplaces](#marketplaces)
+   * [Health](#health)
+   * [Advertisements](#advertisements)
+   * [Online Markets](#online-markets)
+   * [Real Estate](#real-estate)
+   * [Fashion](#fashion)
+   * [Travel and Tourism](#travel-and-tourism)
+   * [Printing](#printing)
+   * [Delivery](#delivery)
+   * [Games](#games)
+   * [Event Organization](#event-organization)
+   * [Unsorted](#unsorted)
 
 ## Software and Technology
 
-  * [hodhodapp.ir](http://hodhodapp.ir/) — messaging service with intelligent spam filtering
-  * [torob.ir](http://torob.ir/) — search engine for goods and products
+  * [HodHodApp](http://hodhodapp.ir/) — messaging service with intelligent spam filtering
+  * [Torob](http://torob.ir/) — search engine for goods and products
 
 ## Music
 
   * [Navaak](http://navaak.com/) — online perisan and foreign music listening and purchasing
-  * [Headphone](http://headphone.ir) — online persian music listening and purchasing
-  * [CafeTunes]() — Control The Music Around You
+  * [Headphone](http://headphone.ir/) — online persian music listening and purchasing
+  * [CafeTunes](http://https//www.cafetunes.net/) — Control The Music Around You
 
 ## Food
 
   * [Boghche](http://boghche.ir/) — Online bread delivery
   * [Mamanpaz](https://www.mamanpaz.ir/) — Home made food delivery
   * [Easypaz](http://easypaz.ir/) — Delivering weekly recipe and ingredients
-  * [Reyhoon]() — Order Food online from the best restaurants in Tehran
-  * [Cake saz](http://cakesaz.com) — Custom cake making and delivery
-  * [مطبخ خونه]() — توزیع مواد غذایی سالم خانگی
+  * [Reyhoon](http://reyhoon.com/) — Order Food online from the best restaurants in Tehran
+  * [Cake saz](http://cakesaz.com/) — Custom cake making and delivery
+  * [Matbakhkhooneh](http://matbakhkhooneh.com/) — توزیع مواد غذایی سالم خانگی
   
 ## Education
 
   * [Ostad Bank](http://www.ostadbank.com/) — Database for finding and recruiting private teachers.
   * [Quera](https://quera.ir/) — Judging and grading programming assignments and online programming training
-  * [Webyad]() — Learning network in which everybody can learn and teach
-  * [Faranesh]() — A video learning platform offering courses for job seekers
-  * [Cafe Tadris]() — مشاوره و تدریس خصوصی آنلاین
-  * [Hamamooz]() — راه حل های آموزش و یادگیری آنلاین
+  * [Webyad](http://webyad.com/) — Learning network in which everybody can learn and teach
+  * [Faranesh](http://faranesh.com/) — A video learning platform offering courses for job seekers
+  * [Cafe Tadris](http://cafetadris.com/) — مشاوره و تدریس خصوصی آنلاین
+  * [Hamamooz](http://www.hamamooz.com/) — راه حل های آموزش و یادگیری آنلاین
 
 ## For Software Developers
 
@@ -54,94 +71,95 @@ Table of Contents
   * [Puzzley](http://puzzley.com) — Build mobile applications without programming knowledge
   * [Joapp](http://joapp.ir/) — Build mobile ebook applications without programming knowledge
 
-## Podcast and audiobooks
+## Podcast & Audiobooks
 
-  * [Navaar]() — Audiobook Mobile Distribution
-  * [شنوتو ]() — مرجع پادکست های صوتی به زبان فارسی
-  * [Namlik]() — Narrated audio content
+  * [Navaar](http://navaar.ir/) — Audiobook Mobile Distribution
+  * [Shenoto](http://www.shenoto.com) — مرجع پادکست های صوتی به زبان فارسی
+  * [Namlik](http://www.namlik.me/) — Narrated audio content
 
 ## Productivity & Business Needs
 
-  * [Taskulu]() — Role Based Project Management Platform
-  * [Green Exam]() — Prepare for your tests. Online.
-  * [SportUp]() — Online Business Management Software
-  * [Cortado]() — Customer loyalty program
-  * [NazarBazaar]() — Market research platform
+  * [Taskulu](http://taskulu.com/) — Role Based Project Management Platform
+  * [Green Exam](http://www.greenexam.ir/) — Prepare for your tests. Online.
+  * [SportUp](http://www.sportup.ir/) — Online Business Management Software
+  * [Cortado](http://www.cortado.ir/) — Customer loyalty program
+  * [NazarBazaar](http://www.nazarbazaar.ir/) — Market research platform
 
 ## Financial Technologies
 
   * Quant can() — Algorithm trading
   * [2nate](http://2nate.com/) — Crowd funding donation Platform
-  * [Payping]() — Online Payment
+  * [Payping](http://payping.ir/) — Online Payment
   * [Bahamta](http://bahamta.com/) — Person to Person online payments
-  * [Payment Express]() — تسهیل گری خدمات ارزی و مالی
+  * [Payment Express](http://www.paymentexpress.ir/) — تسهیل گری خدمات ارزی و مالی
 
 ## Marketplaces
 
-  * [Parvaneh]() — Market place for unique and handmade crafts
-  * [Rangitar]() — Online Photo Marketplace
-  * [Rekab]() — Used car Marketplace
-  * [قایق]() — سهولت در خرید و دسترسی راحت مصرف کننده به فروشنده
+  * [Parvaneh](http://www.parvanehart.com/) — Market place for unique and handmade crafts
+  * [Rangitar](http://www.rangitar.ir/) — Online Photo Marketplace
+  * [Rekab](https://www.rekab.ir/) — Used car Marketplace
+  * [Qayeq](http://qayeq.com/) — سهولت در خرید و دسترسی راحت مصرف کننده به فروشنده
   
 ## Health
 
-  * [Karafs]() — توسعه نرم‌افزارهای سلامتی
+  * [Karafs](http://eynakgroup.ir/) — توسعه نرم‌افزارهای سلامتی
   * [Fitshape](http://fitshape.ir) — Smart fitness exercises and food recommender 
-  * [Fullfekr]() — Online Therapy
+  * [Fullfekr](http://fullfekr.com/) — Online Therapy
 
 ## Advertisements
 
   * [Hamtag](http://hamtag.net) — View ads and get paid
 
-## Online Markets
+## Online Stores
 
-  * [Botick]() — Find trendy clothes online
-  * [Limanza]() — eCommerce platform for fashion designers
-  * [Lunato]() — eCommerce platform for eyewear
+  * [Botick](http://www.botick.com/) — Find trendy clothes online
+  * [Bitervan](http://bitervan.com/) — Find high quality brands
+  * [Limanza](http://www.limanza.com/) — eCommerce platform for fashion designers
+  * [Lunato](http://www.lunato.ir/) — eCommerce platform for eyewear
   
 ## Real Estate
 
-  * [Dimana]() — Real Estate Agency Management Software
+  * [Dimana](http://www.dimana.ir/) — Real Estate Agency Management Software
   * [joomelk]() — Location based Real Estate Agency directory
   * [Iran Kakh]() — Free real estate advertisements
-  * [Netmelk]() — 
+  * [Netmelk](http://netmelk.com/) —  توسعه همه جانبه خدمات املاک در فضای وب
   * [Moneytion](https://www.manishen.com/) — Online platform for buying and selling real estate
-  * [Khoone-be-Khoone](http://khoonebekhooneh.blogfa.com) — Makes it easier to find a new home
+  * [Khoone-be-Khoone](http://khoonebekhooneh.blogfa.com/) — Makes it easier to find a new home
   * [zemik](http://zemik.ir/) — Real estate search enging
-  * [Aloonak]() — بستر ارتباطی ایمن در صنعت مسکن
+  * [Aloonak](http://www.alounak.com/) — بستر ارتباطی ایمن در صنعت مسکن
 
 ## Fashion
 
-  * [آس پوش]() — عرضه و ارائه پوشاک به خریداران عمده در بستر اینترنت 
-  * [کلاب ورزش]() — فروشگاه آنلاین تخصصی پوشاک، لوازم و تجهیزات ورزشی
+  * [As Push](http://www.aspoosh.com/) — عرضه و ارائه پوشاک به خریداران عمده در بستر اینترنت 
+  * [Club Varzesh](https://clubvarzesh.com/) — فروشگاه آنلاین تخصصی پوشاک، لوازم و تجهیزات ورزشی
 
 ## Travel and Tourism
 
-  * [همسفر زیارت ( زائر یاب)]() — پیدا کردن همسفران (زائران) در سفر های دسته جمعی
-  * [Iran Travel]() — معرفی ایران برای گردشگران خارجی
-  * [ایران جمال]() — جذب توریست و گردشگر غیر ایرانی و خصوصا توریستیکه قصد انجام جراحی دارد
+  * [Pilgrim Fellow Traveler Finder](#) — پیدا کردن همسفران (زائران) در سفر های دسته جمعی
+  * [Iran Travel](http://irantravelvapp.com/) — معرفی ایران برای گردشگران خارجی
+  * [Iran Gamal](http://www.IranGamal.com/) — جذب توریست و گردشگر غیر ایرانی و خصوصا توریستیکه قصد انجام جراحی دارد
 
 ## Printing
 
-  * [NikPrint]() — Online Design & Printing
-  * [4Chap]() — طراحی و چاپ آنلاین
-  * [Chapchi]() — پلت‌فرم فروش آثار طراحان بر روی محصولات 
-  * [Fanoos Print]() — ارائه خدمات آنلاین چاپ
-  * [PicUU)() — Print on T-Shirt, Mug, Pixel, ...
+  * [NikPrint](http://www.nikprint.ir/) — Online Design & Printing
+  * [4Chap](http://www.4chap.com/) — طراحی و چاپ آنلاین
+  * [Chapchi](https://chapchi.com/) — پلت‌فرم فروش آثار طراحان بر روی محصولات 
+  * [Fanoos Print](http://www.fprint.ir/) — ارائه خدمات آنلاین چاپ
+  * [PicUU](https://picuu.com/) — Print on T-Shirt, Mug, Pixel, ...
   
 ## Delivery
 
   * [Miare](http://miare.ir/) — Package delivery as a Service
-  * [ارسال آسان]() — ارسال آسان
+  * [Ersal Asan](http://www.ersalasan.com) — ارسال آسان
   
 ## Games
   
-  * [Hexy Pixel]() — Game studio
+  * [Hexy Pixel](http://www.hexypixel.com/) — Game studio
   * [Hexino]() — Game studio
-  * [بازی آنلاین میراث]() — سرگرمی آموزشی
+  * [Online Miras Game](http://www.mirasonline.ir) — سرگرمی آموزشی
   * [Quiz of Kings]() — ایجاد یک سرگرمی و شبکه اجتماعی اطلاعات عمومی در بستر موبایل
   
-## Event organization
+## Event Organization
   
   * [Event Center]() — تسهیل روند ثبت نام در رویداد
   * [Event Box](http://eventbox.ir/) — سامانه آنلاین برای تمامی رویدادها
@@ -149,13 +167,13 @@ Table of Contents
   
 ## Unsorted
 
-  * [Akhbar Rasmi]() — A PR solution for small and medium sized companies that want to be published in Media
-  * [Honari]() — Teaching handicrafts and giving professionals the opportunity to buy their raw materials
-  * [lendem]() — An App that helps you to lend things to friends and others
-  * [SmartBeen]() — Climate controller for greenhouses
-  * [PinTime]() — Location based advertising
-  * [Germinal]() — IoT
-  * [Datashahr]() — Search and review places
+  * [Akhbar Rasmi](http://akhbarrasmi.com/) — A PR solution for small and medium sized companies that want to be published in Media
+  * [Honari](http://honari.com/) — Teaching handicrafts and giving professionals the opportunity to buy their raw materials
+  * [lendem](http://lendem.ir/) — An App that helps you to lend things to friends and others
+  * [SmartBeen](http://www.smartbeen.com/) — Climate controller for greenhouses
+  * [PinTime](http://www.getpintime.com/) — Location based advertising
+  * [Germinal](http://germinal.ir/) — IoT
+  * [Datashahr](http://datashahr.com/) — Search and review places
   * [بسته سلامت اوِسیناپ]() — پایش شخصی سلامت، خودمراقبتی و پیش گیری 
   * [شرکت BSN]() — طراحی و تولید مدارات الکترونیکی طراحی و تولید نرم افزار طراحی و تولید تجهیزات خانه های هوشمند ...
   * [پرتال مک وب]() — سامانه سایت دهی با مشاغل و حرفه های مختلف
