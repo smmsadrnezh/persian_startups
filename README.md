@@ -13,7 +13,7 @@ Table of Contents
    * [For Software Developers](#for-software-developers)
    * [Application Builders](#application-builders)
    * [Podcast & Audiobooks](#podcast-&-audiobooks)
-   * [Productivity & Business Needs](#productivity-&-business-needs])
+   * [Productivity & Business Needs](#productivity-&-business-needs)
    * [Financial Technologies](#financial-technologies)
    * [Marketplaces](#marketplaces)
    * [Health](#health)
@@ -46,7 +46,7 @@ Table of Contents
   * [Easypaz](http://easypaz.ir/) — Delivering weekly recipe and ingredients
   * [Reyhoon](http://reyhoon.com/) — Order Food online from the best restaurants in Tehran
   * [Cake saz](http://cakesaz.com/) — Custom cake making and delivery
-  * [Matbakhkhooneh](http://matbakhkhooneh.com/) — توزیع مواد غذایی سالم خانگی
+  * [Matbakhkhooneh](http://matbakhkhooneh.com/) — Homemade healthy food distribution
   
 ## Education
 
@@ -54,16 +54,16 @@ Table of Contents
   * [Quera](https://quera.ir/) — Judging and grading programming assignments and online programming training
   * [Webyad](http://webyad.com/) — Learning network in which everybody can learn and teach
   * [Faranesh](http://faranesh.com/) — A video learning platform offering courses for job seekers
-  * [Cafe Tadris](http://cafetadris.com/) — مشاوره و تدریس خصوصی آنلاین
-  * [Hamamooz](http://www.hamamooz.com/) — راه حل های آموزش و یادگیری آنلاین
+  * [Cafe Tadris](http://cafetadris.com/) — Online consultation and private tutoring
+  * [Hamamooz](http://www.hamamooz.com/) — Online learning and training solutions
 
 ## For Software Developers
 
-  * [nivad.io](https://nivad.io/) — Mobile and Website backend as a service
-  * [backtory.com](https://backtory.com/) — Mobile backend as a service
-  * [pushe.co](http://pushe.co/) — Push notification service
-  * [recommender.ir](http://www.recommender.ir/) — Realtime solution for analysing user behavior and making recommendations
-  * [Site Checkup]() — آنالیز وبسایت، حل مشکلات در حوزه های گوناگون و بهینه سازی موتورهای جستجو بصورت آنلاین
+  * [Nivad Cloud](https://nivad.io/) — Mobile and Website backend as a service
+  * [Backtory](https://backtory.com/) — Mobile backend as a service
+  * [Pushe](http://pushe.co/) — Push notification service
+  * [Recommender](http://www.recommender.ir/) — Realtime solution for analysing user behavior and making recommendations
+  * [Site Checkup](http://sitecheckup.ir) — Website analytics, solving problems in the areas of search engine optimization
 
 ## Application Builders
 
@@ -74,7 +74,7 @@ Table of Contents
 ## Podcast & Audiobooks
 
   * [Navaar](http://navaar.ir/) — Audiobook Mobile Distribution
-  * [Shenoto](http://www.shenoto.com) — مرجع پادکست های صوتی به زبان فارسی
+  * [Shenoto](http://www.shenoto.com) — Reference of audio podcasts in Persian
   * [Namlik](http://www.namlik.me/) — Narrated audio content
 
 ## Productivity & Business Needs
@@ -91,87 +91,84 @@ Table of Contents
   * [2nate](http://2nate.com/) — Crowd funding donation Platform
   * [Payping](http://payping.ir/) — Online Payment
   * [Bahamta](http://bahamta.com/) — Person to Person online payments
-  * [Payment Express](http://www.paymentexpress.ir/) — تسهیل گری خدمات ارزی و مالی
+  * [Payment Express](http://www.paymentexpress.ir/) — Facilitating exchange and financial services
 
-## Marketplaces
+## Online Stores
 
+  * [Honari](http://honari.com/) — Teaching handicrafts and giving professionals the opportunity to buy their raw materials
+  * [Botick](http://www.botick.com/) — Find trendy clothes online
+  * [Bitervan](http://bitervan.com/) — Find high quality brands
+  * [Limanza](http://www.limanza.com/) — eCommerce platform for fashion designers
+  * [Lunato](http://www.lunato.ir/) — eCommerce platform for eyewear
   * [Parvaneh](http://www.parvanehart.com/) — Market place for unique and handmade crafts
   * [Rangitar](http://www.rangitar.ir/) — Online Photo Marketplace
   * [Rekab](https://www.rekab.ir/) — Used car Marketplace
-  * [Qayeq](http://qayeq.com/) — سهولت در خرید و دسترسی راحت مصرف کننده به فروشنده
+  * [Qayeq](http://qayeq.com/) — Consumer ease of shopping and easy access to the seller
   
 ## Health
 
-  * [Karafs](http://eynakgroup.ir/) — توسعه نرم‌افزارهای سلامتی
+  * [Karafs](http://eynakgroup.ir/) — Health software development
   * [Fitshape](http://fitshape.ir) — Smart fitness exercises and food recommender 
   * [Fullfekr](http://fullfekr.com/) — Online Therapy
 
 ## Advertisements
 
   * [Hamtag](http://hamtag.net) — View ads and get paid
-
-## Online Stores
-
-  * [Botick](http://www.botick.com/) — Find trendy clothes online
-  * [Bitervan](http://bitervan.com/) — Find high quality brands
-  * [Limanza](http://www.limanza.com/) — eCommerce platform for fashion designers
-  * [Lunato](http://www.lunato.ir/) — eCommerce platform for eyewear
+  * [PinTime](http://www.getpintime.com/) — Location based advertising
   
 ## Real Estate
 
   * [Dimana](http://www.dimana.ir/) — Real Estate Agency Management Software
-  * [joomelk]() — Location based Real Estate Agency directory
-  * [Iran Kakh]() — Free real estate advertisements
-  * [Netmelk](http://netmelk.com/) —  توسعه همه جانبه خدمات املاک در فضای وب
+  * [joomelk](http://telegram.me/joomelk_bot) — Location based Real Estate Agency directory
+  * [Iran Kakh](http://www.irankakh.com) — Free real estate advertisements
+  * [Netmelk](http://netmelk.com/) —  Comprehensive development of real estate services on the web
   * [Moneytion](https://www.manishen.com/) — Online platform for buying and selling real estate
   * [Khoone-be-Khoone](http://khoonebekhooneh.blogfa.com/) — Makes it easier to find a new home
   * [zemik](http://zemik.ir/) — Real estate search enging
-  * [Aloonak](http://www.alounak.com/) — بستر ارتباطی ایمن در صنعت مسکن
+  * [Aloonak](http://www.alounak.com/) — Secure communication platform in housing industry
 
 ## Fashion
 
-  * [As Push](http://www.aspoosh.com/) — عرضه و ارائه پوشاک به خریداران عمده در بستر اینترنت 
-  * [Club Varzesh](https://clubvarzesh.com/) — فروشگاه آنلاین تخصصی پوشاک، لوازم و تجهیزات ورزشی
+  * [As Push](http://www.aspoosh.com/) — Supply and provide cloths to wholsalers
+  * [Club Varzesh](https://clubvarzesh.com/) — Online store with focus on apparel, accessories and sports equipment
 
 ## Travel and Tourism
 
-  * [Pilgrim Fellow Traveler Finder](#) — پیدا کردن همسفران (زائران) در سفر های دسته جمعی
-  * [Iran Travel](http://irantravelvapp.com/) — معرفی ایران برای گردشگران خارجی
-  * [Iran Gamal](http://www.IranGamal.com/) — جذب توریست و گردشگر غیر ایرانی و خصوصا توریستیکه قصد انجام جراحی دارد
+  * [Pilgrim Fellow Traveler Finder](#) — Finding fellow travelers
+  * [Iran Travel](http://irantravelvapp.com/) — Iran introduction for foreign tourists
+  * [Iran Gamal](http://www.IranGamal.com/) — Attracting foreign tourist, especially tourist who planned surgery
 
 ## Printing
 
   * [NikPrint](http://www.nikprint.ir/) — Online Design & Printing
-  * [4Chap](http://www.4chap.com/) — طراحی و چاپ آنلاین
-  * [Chapchi](https://chapchi.com/) — پلت‌فرم فروش آثار طراحان بر روی محصولات 
-  * [Fanoos Print](http://www.fprint.ir/) — ارائه خدمات آنلاین چاپ
+  * [4Chap](http://www.4chap.com/) — Online Design & Print
+  * [Chapchi](https://chapchi.com/) — Platform for selling printed artworks on different products
+  * [Fanoos Print](http://www.fprint.ir/) — Online printing services
   * [PicUU](https://picuu.com/) — Print on T-Shirt, Mug, Pixel, ...
   
 ## Delivery
 
   * [Miare](http://miare.ir/) — Package delivery as a Service
-  * [Ersal Asan](http://www.ersalasan.com) — ارسال آسان
+  * [Ersal Asan](http://www.ersalasan.com/) — Easy delivery
   
 ## Games
   
   * [Hexy Pixel](http://www.hexypixel.com/) — Game studio
   * [Hexino]() — Game studio
-  * [Online Miras Game](http://www.mirasonline.ir) — سرگرمی آموزشی
-  * [Quiz of Kings]() — ایجاد یک سرگرمی و شبکه اجتماعی اطلاعات عمومی در بستر موبایل
+  * [Online Miras Game](http://www.mirasonline.ir/) — Infotainment
+  * [Quiz of Kings](http://quizofkings.com/) — Entertainment and social network on mobile platform
   
 ## Event Organization
   
-  * [Event Center]() — تسهیل روند ثبت نام در رویداد
-  * [Event Box](http://eventbox.ir/) — سامانه آنلاین برای تمامی رویدادها
-  * [Evand](http://evand.ir/) — ثبت نام آنلاین رویدادها 
+  * [Event Center](http://eventcenter.ir) — Facilitate the registration process in events
+  * [Event Box](http://eventbox.ir/) — Online system for all kind of events
+  * [Evand](http://evand.ir/) — Online events registration
   
 ## Unsorted
 
   * [Akhbar Rasmi](http://akhbarrasmi.com/) — A PR solution for small and medium sized companies that want to be published in Media
-  * [Honari](http://honari.com/) — Teaching handicrafts and giving professionals the opportunity to buy their raw materials
   * [lendem](http://lendem.ir/) — An App that helps you to lend things to friends and others
   * [SmartBeen](http://www.smartbeen.com/) — Climate controller for greenhouses
-  * [PinTime](http://www.getpintime.com/) — Location based advertising
   * [Germinal](http://germinal.ir/) — IoT
   * [Datashahr](http://datashahr.com/) — Search and review places
   * [بسته سلامت اوِسیناپ]() — پایش شخصی سلامت، خودمراقبتی و پیش گیری 
@@ -236,7 +233,7 @@ Table of Contents
   * [پلوتو]() — فروشگاه ساز اینترنتی
   * [فیلیمو]() — پخش آنلاین فیلم و سریال
   * [فروشگاه اینترنتی بینوبای]() — نوآوری در فروش اینترنتی محصولات داخلی و صنایع دستی، همچنین معرفی برند های داخلی و محصولات دست ساز
-  * [برنده]() — استعدادیابی، ایجاد رقابت، شکوفایی  
+  * [برنده]() — استعدادیابی، ایجاد رقابت، شکوفایی
   * [پلتفرم تعاملی آموزشی زیر دستی]() — آموزش تخصصی و تامین نیروی کار شرکتها و موسسات
   * [مدیر ام بی ای]() — آموزش بازرگانی و مهارت های مذاکره
   * [یادبگیریم که چگونه کارهامون رو انجام بدیم.]() — آموزش چگونگی انجام کارها
@@ -435,7 +432,6 @@ Table of Contents
   * [آتی گستر]() — نرم افزاری برای نمایش هرآنچه دوست دارید
   * [هاستینجا]() — ارائه خدمات ویژه و متمایز هاستینگ به توسعه دهنده ها
   * [پیمنت اکسپرس]() — ارایه خدمات مالی ارزی
-  * [پیمنت اکسپرس]() — ارایه خدمات مالی ارزی
   * [دانش بنیان عصر تجارت مجازی افرند]() — نمایش و ارائه محصولات، جذب پروژه و جذب سرمایه گذار
   * [SynSkill]() — SynSkill   بستری است برای به اشتراک گذاشتن مهارت های فردی، با هدف قدرتمند کردن یک مهارت تیمی.
   * [مسیر طلایی]() — مدیریت هوشمند ناوگان حمل و نقلی پخش مویرگی کالا
@@ -454,7 +450,6 @@ Table of Contents
   * [ مهربانه]() — تامین مالی جمعی برای امور خیریه با هدف توانمندسازی
   * [داده پردازی پرهام صنعت پویا]() — اجرای سیستم های ابری و SAAS
   * [بلیط بین]() — ایجاد حس رضایت با بهترین انتخاب در کوتاه ترین زمان
-  * [بلیط بین]() — ” ایجاد حس رضایت با بهترین انتخاب در کوتاه ترین زمان
   * [بلیط بین]() — ” ایجاد حس رضایت با بهترین انتخاب در کوتاه ترین زمان
   * [لیزینگ وب]() — ارایه خدمات طراحی سایت به صورت اقساط بلند مدت
   * [وای فای هوشمند تکتا]() — هوشمند سازی اینترنت مراکز عمومی و جمع آوری و تحلیل اطلاعات رفتار مشتری
@@ -576,9 +571,6 @@ Table of Contents
   * [شیرترانیکس فارسی]() — توسعه شبکه های اجتماعی بومی
   * [راه ابریشم ]() — گردشگری
   * [شرکت دانش بنیان گاتا]() — ارایه راهکارهای هوشمند و پرورش ایده های خلاق در زمینه پردازش متن،گفتار و تصویر و دستیابی به شهرت و ...
-  * [شرکت دانش بنیان گاتا]() — ارایه راهکارهای هوشمند و پرورش ایده های خلاق در زمینه پردازش متن،گفتار و تصویر.
-  * [باشگاه های ابری تاژک]() — ایجاد یک شبکه مجازی از باشگاه های ورزشی و ذینفعان و مخاطبان مربوطه
-  * [باشگاه های ابری تاژک]() — ایجاد یک شبکه مجازی از باشگاه های ورزشی و ذینفعان و مخاطبان مربوطه
   * [باشگاه های ابری تاژک]() — ایجاد یک شبکه مجازی از باشگاه های ورزشی و ذینفعان و مخاطبان مربوطه
   * [گریپ‌فروت]() — آنتی‌ویروس و ضدبدافزار برای دستگاه‌های هوشمند اندرویدی
   * [نورپردازی تعاملی]() — نورپردازی شهری با قابلیت تعامل با شهروندان
@@ -588,11 +580,7 @@ Table of Contents
   * [صندوق پستی مجازی ایرانیان (صاپست)]() — تحول در سیستم پستی کشور در ابعاد مارسال مرسولات و رهگیری و مشکلات آدرس دهی
   * [چطوره؟]() — ارائه روشی نوین و سریع جهت معرفی سریع بهترین های هر چیز اعم از خدمات شهری ، مکانها و محصولات
   * [هشدارآنلاین]() — ایجاد امنیت شهری هوشمند
-  * [هشدارآنلاین]() — ایجاد امنیت شهری هوشمند
   * [activentum]() — ایجاد همبستگی شهری
-  * [استارت آپ دانشگاه صنعتی]() — رفع بیکاری
-  * [استارت آپ دانشگاه صنعتی]() — رفع بیکاری
-  * [استارت آپ دانشگاه صنعتی]() — رفع بیکاری
   * [استارت آپ دانشگاه صنعتی]() — رفع بیکاری
   * [فودمپ]() — دسترسی سریع و آسان مردم و گردشگران به بهترین و با کیفیت ترین غذا و مکان با کمترین قیمت.صرفه جویی ...
   * [خدمات شهری]() — بهبودی حمل نقل کشور
@@ -676,8 +664,6 @@ Table of Contents
   * [اوسیناپ]() — ارائه سبک زندگی سلامت محور
   * [FullFekr]() — مشاوره آنلاین روانشناسی
   * [نرم افزار مدیریت ابری مجتمع های مسکونی و تجاری]() — مدیریت و مکانیزه نمودن کلیه امور مربوط به مجتمع ها و امکان رسیدگی به امور مالی و حسابداری مجتمع
-  * [طراحان خانه هوشمند بهین انرژی]() — 
-  * [طراحان خانه هوشمند بهین انرژی]() — ارائه سرویس های سازه های هوشمند، حمل و نقل هوشمند، شهر هوشمند، سلامت هوشمند، انرژی هوشمند
   * [طراحان خانه هوشمند بهین انرژی]() — ارائه سرویس های سازه های هوشمند، حمل و نقل هوشمند، شهر هوشمند، سلامت هوشمند، انرژی هوشمند
   * [پارس اوکی]() — حمایت از کسب و کارهای ایرانی
   * [سایه پرداز آذرخش]() — تولید راهنماهای الکترونیکی گردشگری
@@ -739,7 +725,6 @@ Table of Contents
   * [شیک دوز]() — ایجاد شبکه دوخت و بافت برخط هنرمندان ایران
   * [پرتال مشاغل]() — پرتال مشاغل
   * [راه اندازی موسسه حقوقی تخصصی در حوزه ی جرایم اینترنتی]() — ارایه خدمات تخصصی در حوزه ی فناوری اطلاعات و جرایم رایانه ای
-  * [راه اندازی موسسه حقوقی تخصصی در حوزه ی جرایم اینترنتی]() — ارایه خدمات تخصصی در حوزه ی فناوری اطلاعات و جرایم رایانه ای
   * [WyBy]() — خرید و تحویل آسان کالا
   * [دکتر کو؟]() — دکتر کو ایجاد شده تا مشکل جستجوی پزشکان، مراکز درمانی، تغییر اطلاعات تماس و همچنین عدم اطلاع مردم ...
   * [3گام]() — برنامه ریزی مطالعاتی , انتخاب رشته
@@ -792,7 +777,6 @@ Table of Contents
   * [پیشرو فن افزار پارس]() — توسعه اندروید در زمینه دانشگاهی
   * [سایت سفارش آنلاین خدمات]() — تسهیل در سفارش خدمات
   * [مشارکت در یک طرح تجارت الکترونیک]() — جهت مشارکت در یک طرح در زمینه تجارت الکترونیک
-  * [نمآموز: آموزش آنلاین]() — آموزش آنلاین برای همه، همیشه، همه جا
   * [نمآموز: آموزش آنلاین]() — آموزش آنلاین برای همه، همیشه، همه جا
   * [ برنامه نویس وب . موبایل ios  و آندروید]() — برای مشارکت در یک طرح جامع و ارزشمند در سراسر کشور در حوزه ساختمانی
   * [بازیتک]() — بستر ارائه سرویسهای مرتبط با صنعت بازی در قالب شبکه اجتماعی
@@ -873,11 +857,10 @@ Table of Contents
   * [شبکه اجتماعی مهارت های ایرانی (skillema.ir)]() — ایجاد یک بستر حرفه ای برای اشتراک ، توسعه و کسب درآمد از طریق مهارت هایی که در اختیار داریم
   * [بانک اطلاعات شهری مشاغل ملایر]() — وجود يك بانك اطلاعاتي كامل و معرفي كسب و كار به شكلي متفاوت از سايتهاي ديگر
   * [دانش‌بین]() — تولید محتوا در حوزه دانش و فناوری
-  * [نرم افزار &quot;من اینجام!&quot;]() — ارائه تصاویر و اطلاعات کاربران از مکان‌های مختلف (با هدف معرفی مکان‌های گردشگری)
+  * [نرم افزار "من اینجام!"]() — ارائه تصاویر و اطلاعات کاربران از مکان‌های مختلف (با هدف معرفی مکان‌های گردشگری)
   * [XaaS.ir]() — cloud computing 
   * [درمانکده]() — راه اندازی یک پورتال برای تامین نیاز اطلاعاتی بیماران 
-  * [شرکت برنامه نویسی مهر]() — ادرس دهی اسان در دریایی از اطلاعات
-  * [شرکت برنامه نویسی مهر]() — ثبت شرکت جذب علاقه مندان ایجاد اولین پروژه
+  * [شرکت برنامه نویسی مهر]() — ادرس دهی اسان در دریایی از اطلاعات و ثبت شرکت جذب علاقه مندان ایجاد اولین پروژه
   * [رایانیها]() — ارائه محصولات نرم افزاری ایرانی بصورت یکپارچه و مارکتی!
   * [خرید و فروش ]() — خرید و فروش 
   * [کسب درآمد از فروش دامین]() — 
@@ -982,4 +965,3 @@ Table of Contents
   * [اپلیکیشن ارتباطات سازمانی]() — کمک به تسهیل ارتباطات درون وبرون سازمانی
   * [پرینتر سه بعدی رپرپ]() — گسترش فناوری پرینت سه بعدی در ایران
   * [توشه، اولین سامانه خدمات مسافر محور (خرید از خارج و ارسال کالا از طریق مسافران) در ایران]() — استفاده از مسافران برای خرید از خارج (آمازون آمریکا، علی بابای چین و حتی لباس از ترکیه و بسیاری ...
-
