@@ -12,8 +12,8 @@ Table of Contents
    * [Education](#education)
    * [For Software Developers](#for-software-developers)
    * [Application Builders](#application-builders)
-   * [Podcast & Audiobooks](#podcast-&-audiobooks)
-   * [Productivity & Business Needs](#productivity-&-business-needs)
+   * [Podcast & Audiobooks](#podcast--audiobooks)
+   * [Productivity & Business Needs](#productivity--business-needs)
    * [Financial Technologies](#financial-technologies)
    * [Marketplaces](#marketplaces)
    * [Health](#health)
@@ -37,7 +37,7 @@ Table of Contents
 
   * [Navaak](http://navaak.com/) — online perisan and foreign music listening and purchasing
   * [Headphone](http://headphone.ir/) — online persian music listening and purchasing
-  * [CafeTunes](http://https//www.cafetunes.net/) — Control The Music Around You
+  * [CafeTunes](http://www.cafetunes.net/) — Control The Music Around You
 
 ## Food
 
@@ -172,7 +172,7 @@ Table of Contents
   * [SmartBeen](http://www.smartbeen.com/) — Climate controller for greenhouses
   * [Germinal](http://germinal.ir/) — IoT
   * [Datashahr](http://datashahr.com/) — Search and review places
-  * [بسته سلامت اوِسیناپ]() — پایش شخصی سلامت، خودمراقبتی و پیش گیری 
+  * [بسته سلامت اوِسیناپ](http://www.avicennapp.com) — پایش شخصی سلامت، خودمراقبتی و پیش گیری 
   * [شرکت BSN]() — طراحی و تولید مدارات الکترونیکی طراحی و تولید نرم افزار طراحی و تولید تجهیزات خانه های هوشمند ...
   * [پرتال مک وب]() — سامانه سایت دهی با مشاغل و حرفه های مختلف
   * [فروشگاه ساز فروشگاهان]() — راه اندازی سرویسی که به تولیدکنندگان ، صاحبان کسب و کار خانگی و به کلیه فروشندگان در جهت حضور در ...
@@ -211,7 +211,6 @@ Table of Contents
   * [خانه هوشمند]() —  کنترل وسایل منزل از طریق تلفن همراه: امکان روشن و خاموش کردن وسایل برقی مانند کولر. بخاری. شوفاژ ...
   * [کلبه]() — ساخت خانه هوشمند تمام بومی
   * [به یار]() — ارائه خدمات به کسب و کار های نو پا
-
   * [سایت آموزشی ]() — جمع آوری اساتید مختلف و آموزش ها در سایت بعنوان یک مرجع قابل دسترس برای کاربران  در زمینه های مختلف
   * [ایده پردازان وزین سلامت نوین (AVECEN)]() — پیشرو در توسعه سلامت عمومی
   * [بقالینا]() — خرید آسان و سریع از سوپرمارکت
@@ -368,7 +367,6 @@ Table of Contents
   * [این سرویس]() — توسعه و بهبود خدمات کارخانه های متوسط و کارگاههای فعال در شهرک های صنعتی
   * [روژمان]() — کارآفرینی، ایجاد اشتغال، صادرات
   * [دیتاشهر]() — پلتفرم جستجوی مکانهای شهری
-  
   * [پیام رسان هدهد]() — ارائه بستر پیام‌رسانی به صورت آفلاین و آنلاین 
   * [ایرف]() — نمایش، خرید و فروش آثار فرهنگی و هنری ایران
   * [بیار]() — ایجاد بستری برای خرید و فروش توسط خرده فروشها
@@ -444,7 +442,6 @@ Table of Contents
   * [گروه لک لک]() — تجارت الکترونیک
   * [فیبز]() — ایجاد رسانه و شبکه اجتماعی مبتنی بر محتوا و سرگرمی
   * [کارآغاز]() — به نتیجه رسوندن ایدها و آثار با برطرف شدن نیاز های فنی تولید و خدمات
-  
   * [omdex]() — عمده فروشی اینترنتی
   * [سامانه جامع برنا]() — فراهم آوردن بستر ارتباطى (پلتفرم) اكوسيستم آنلاين كارآفرينى كشور
   * [شرینو - شبکه اجتماعی خرید]() — پلتفرم تجارت اجتماعی
