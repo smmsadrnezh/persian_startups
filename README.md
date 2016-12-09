@@ -42,6 +42,7 @@ Table of Contents
 ## Food
 
   * [Boghche](http://boghche.ir/) — Online bread delivery
+  * [Janan](http://janan.center/) — Online bread delivery
   * [Mamanpaz](https://www.mamanpaz.ir/) — Home made food delivery
   * [Easypaz](http://easypaz.ir/) — Delivering weekly recipe and ingredients
   * [Reyhoon](http://reyhoon.com/) — Order Food online from the best restaurants in Tehran
