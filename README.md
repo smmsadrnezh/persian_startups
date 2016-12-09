@@ -88,7 +88,7 @@ Table of Contents
 
 ## Financial Technologies
 
-  * Quant can() — Algorithm trading
+  * [Quant can]() — Algorithm trading
   * [2nate](http://2nate.com/) — Crowd funding donation Platform
   * [Payping](http://payping.ir/) — Online Payment
   * [Bahamta](http://bahamta.com/) — Person to Person online payments
