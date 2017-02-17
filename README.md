@@ -126,7 +126,7 @@ Table of Contents
   * [Netmelk](http://netmelk.com/) —  Comprehensive development of real estate services on the web
   * [Moneytion](https://www.manishen.com/) — Online platform for buying and selling real estate
   * [Khoone-be-Khoone](http://khoonebekhooneh.blogfa.com/) — Makes it easier to find a new home
-  * [zemik](http://zemik.ir/) — Real estate search enging
+  * [Zemik](http://zemik.ir/) — Real estate search enging
   * [Aloonak](http://www.alounak.com/) — Secure communication platform in housing industry
 
 ## Fashion
