@@ -47,6 +47,7 @@ Table of Contents
   * [Easypaz](http://easypaz.ir/) — Delivering weekly recipe and ingredients
   * [Reyhoon](http://reyhoon.com/) — Order Food online from the best restaurants in Tehran
   * [Cake saz](http://cakesaz.com/) — Custom cake making and delivery
+  * [Shikar](http://www.shikar.ir/) — Online pastry store
   * [Matbakhkhooneh](http://matbakhkhooneh.com/) — Homemade healthy food distribution
   
 ## Education
