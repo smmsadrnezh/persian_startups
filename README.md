@@ -35,8 +35,8 @@ Table of Contents
 
 ## Music
 
-  * [Navaak](http://navaak.com/) — online perisan and foreign music listening and purchasing
-  * [Headphone](http://headphone.ir/) — online persian music listening and purchasing
+  * [Navaak](http://navaak.com/) — online Persian and foreign music listening and purchasing
+  * [Headphone](http://headphone.ir/) — online Persian music listening and buying
   * [CafeTunes](http://www.cafetunes.net/) — Control The Music Around You
 
 ## Food
@@ -64,7 +64,7 @@ Table of Contents
   * [Nivad Cloud](https://nivad.io/) — Mobile and Website backend as a service
   * [Backtory](https://backtory.com/) — Mobile backend as a service
   * [Pushe](http://pushe.co/) — Push notification service
-  * [Recommender](http://www.recommender.ir/) — Realtime solution for analysing user behavior and making recommendations
+  * [Recommender](http://www.recommender.ir/) — Real-time solution for analyzing user behavior and making recommendations
   * [Site Checkup](http://sitecheckup.ir) — Website analytics, solving problems in the areas of search engine optimization
 
 ## Application Builders
@@ -131,7 +131,7 @@ Table of Contents
 
 ## Fashion
 
-  * [As Push](http://www.aspoosh.com/) — Supply and provide cloths to wholsalers
+  * [As Push](http://www.aspoosh.com/) — Supply and provide clothes to wholesalers
   * [Club Varzesh](https://clubvarzesh.com/) — Online store with focus on apparel, accessories and sports equipment
 
 ## Travel and Tourism
@@ -169,7 +169,7 @@ Table of Contents
 
 ## Unsorted
 
-  * [Akhbar Rasmi](http://akhbarrasmi.com/) — A PR solution for small and medium sized companies that want to be published in Media
+  * [Akhbar Rasmi](http://akhbarrasmi.com/) — A PR solution for small and medium-sized companies that want to be published in Media
   * [lendem](http://lendem.ir/) — An App that helps you to lend things to friends and others
   * [SmartBeen](http://www.smartbeen.com/) — Climate controller for greenhouses
   * [Germinal](http://germinal.ir/) — IoT
